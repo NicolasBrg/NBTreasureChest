@@ -58,6 +58,7 @@ To configure treasures chest you must have the permission "**nbtreasure.admin**"
 - If you break a treasure chest, its data as well as the players' data will be deleted and you will be alerted with a message in the chat.
 - A player who opens a treasure chest for the first time receives a configurable message, he can retrieve the contents of the chest at the time of generation.
 - If you change the contents of a chest, the next players to open it will get the contents of the chest if they haven't already retrieved it before. If you want them to have the rewards again, select only the treasure chest and reset the players progress. 
+- Also works with double chest and trapped chest.
 
 # More questions ? 
 Feel free to ask me directly on my discord server.
