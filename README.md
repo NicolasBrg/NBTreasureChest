@@ -5,8 +5,8 @@ Customize the chest as you want by placing items and turn it into a treasure che
 
 **Enhance your events, treasure hunts, exploration and even dungeons with NBTreasureChest**!
 
-# Video demonstration
-*Soon*
+# Video demonstration (Click to play)
+[![Demo video](https://img.youtube.com/vi/QjmBSoR3uWo/0.jpg)](https://www.youtube.com/watch?v=QjmBSoR3uWo)
 
 # Create a treasure chest
 ## 1. Place a chest with content you want
